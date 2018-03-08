@@ -3,7 +3,7 @@ Project work for the Udacity Nanodegree (Full Stack Web Developer)
 
 ## Projects
 
-**Movie**
+*Movie*
 
 ### About
 Server-side code to store a list of your favorite movies, including box art imagery and a movie trailer URL.
