@@ -8,4 +8,4 @@ This project provides a simple server-side code for Udacity Nanodegree Full Stac
 
 ### How to run
 
-To run the project, clone this repository directory and run `fresh_tomatoes.html`.
+To run the project, clone this repository directory and run `entertainment_center.py`.

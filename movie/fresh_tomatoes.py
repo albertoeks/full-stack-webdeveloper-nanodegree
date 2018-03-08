@@ -130,6 +130,13 @@ movie_tile_content = '''
 
 
 def create_movie_tiles_content(movies):
+    """ Method to shows content of movie
+
+    Args:
+        movies: list of movies
+
+    """
+
     # The HTML content for this section of the page
     content = ''
     for movie in movies:
@@ -151,6 +158,13 @@ def create_movie_tiles_content(movies):
 
 
 def open_movies_page(movies):
+    """ Method to open page of movie on browser
+
+    Args:
+        movies: list of movies
+
+    """
+
     # Create or overwrite the output file
     output_file = open('fresh_tomatoes.html', 'w')
 
