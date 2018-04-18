@@ -1,9 +1,5 @@
-# full-stack-webdeveloper-nanodegree
-Project work for the Udacity Nanodegree (Full Stack Web Developer)
-
-## Projects
-
-**_Movie_**
+# Movie Trailer Website
+Server-side code to store a list of your favorite movies, including box art imagery and a movie trailer URL
 
 #### About
 Server-side code to store a list of your favorite movies, including box art imagery and a movie trailer URL.
